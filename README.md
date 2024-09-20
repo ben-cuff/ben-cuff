@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 <h3 align="center">Git Stats</h3>
 
+<a href="https://github.com/ben-cuff">
+    <img src="https://ghchart.rshah.org/ben-cuff" alt="ben-cuff's GitHub Contribution Chart">
+</a>
+
 <div align="center">
  
   <img src="https://streak-stats.demolab.com/?user=ben-cuff&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
@@ -41,23 +45,6 @@ Here are some ideas to get you started:
 </div>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ben-cuff&theme=highcontrast&hide_border=true">
-
-### GitHub Contribution Chart
-
-<a href="https://github.com/ben-cuff">
-    <img src="https://ghchart.rshah.org/ben-cuff" alt="ben-cuff's GitHub Contribution Chart">
-</a>
-
-<details>
-  <summary style="font-size: 1.17em; font-weight: bold;">
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
-  </summary>
-  
-  <img src="https://myreadme.vercel.app/api/embed/ben-cuff?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="ben-cuff's GitHub Stats">
-      <img src="https://github-readme-bento.vercel.app/stats/ben-cuff?theme=dark" alt="ben-cuff's GitHub Stats">
-      <img src="https://stats.dooboo.io/api/github-stats-advanced?login=ben-cuff" alt="Advanced GitHub Stats for ben-cuff" width="400">
-
-</details>
 
 <br>
 
