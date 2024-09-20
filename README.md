@@ -40,15 +40,13 @@ Here are some ideas to get you started:
 
 </div>
 
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ben-cuff&theme=highcontrast&hide_border=true">
 
-
 ### GitHub Contribution Chart
+
 <a href="https://github.com/ben-cuff">
     <img src="https://ghchart.rshah.org/ben-cuff" alt="ben-cuff's GitHub Contribution Chart">
 </a>
-
 
 <details>
   <summary style="font-size: 1.17em; font-weight: bold;">
@@ -59,38 +57,9 @@ Here are some ideas to get you started:
       <img src="https://github-readme-bento.vercel.app/stats/ben-cuff?theme=dark" alt="ben-cuff's GitHub Stats">
       <img src="https://stats.dooboo.io/api/github-stats-advanced?login=ben-cuff" alt="Advanced GitHub Stats for ben-cuff" width="400">
 
-
 </details>
-
 
 <br>
-
-### ben-cuff/README.md activity
-<img width="100%" src="https://repobeats.axiom.co/api/embed/48c98af9cae40b4ae2cf354a0f544a52eb743a9f.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
-
-[![Forkers repo roster for @ben-cuff/ben-cuff](https://reporoster.com/forks/dark/ben-cuff/ben-cuff)](https://github.com/ben-cuff/ben-cuff/network/members)
-
-[![Repography](https://reporoster.com/stars/dark/ben-cuff/ben-cuff)](https://github.com/ben-cuff/ben-cuff)
-
-<details>
-  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for ben-cuff&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
-
-  <h2>Star History Chart</h2>
-  <a href="https://star-history.com/#ben-cuff/ben-cuff&Date">
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ben-cuff/ben-cuff&type=Date&theme=dark" />
-  </a>
-
-</details>
-
-
-<br>
-<details>
-  <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
-  <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=ben-cuff&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy">
-  <img src="https://stats.dooboo.io/api/github-trophies?login=ben-cuff" alt="GitHub Trophies for ben-cuff">
-</details>
-
 
 <h3 align="center">Leetcode Stats</h3>
 <p align="center">
