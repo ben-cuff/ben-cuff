@@ -40,46 +40,8 @@ Here are some ideas to get you started:
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ben-cuff&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Ben's GitHub stats">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ben-cuff&theme=highcontrast&hide_border=true">
-
-### Top Repositories
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/ben-cuff/fast-gemini-nano">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ben-cuff&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ben-cuff/Weather-3d-ai-app.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ben-cuff&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/ben-cuff/moviedjangoai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ben-cuff&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ben-cuff/speech-to-text.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ben-cuff&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-    <tr align="center">
-      <td colspan="2">
-        <a href="https://github.com/ben-cuff/SmolLM">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ben-cuff&repo=SmolLM&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
 
 
 ### GitHub Contribution Chart
