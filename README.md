@@ -17,12 +17,6 @@ Here are some ideas to get you started:
 
 <h3 align="center">Git Stats</h3>
 <div align="center">
-
-<a href="https://github.com/ben-cuff">
-    <img src="https://ghchart.rshah.org/ben-cuff" alt="ben-cuff's GitHub Contribution Chart">
-</a>
-<br>
-<div align="center">
 <table>
   <tr>
     <td>
