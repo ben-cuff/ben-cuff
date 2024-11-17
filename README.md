@@ -31,13 +31,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-</div>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ben-cuff&theme=highcontrast&hide_border=true">
-
-<br>
-
-<!-- <h3 align="center">Leetcode Stats</h3>
+<h3 align="center">Leetcode Stats</h3>
 <p align="center">
   <img align="center" src="https://leetcard.jacoblin.cool/ben-cuff?ext=heatmap"/>
-</p> -->
+</p>
