@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-<h3 align="center">Leetcode Stats</h3>
+<!--- <h3 align="center">Leetcode Stats</h3>
 <p align="center">
   <img align="center" src="https://leetcard.jacoblin.cool/ben-cuff?ext=heatmap"/>
-</p>
+</p> --->
